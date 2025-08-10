@@ -59,6 +59,6 @@ Each of these calls will return a user fetched from user-service.
 ## Sample User Response
 {
   "id": 1,
-  "name": "John Doe",
-  "email": "john@example.com"
+  "name": "abc",
+  "email": "xyz@example.com"
 }
